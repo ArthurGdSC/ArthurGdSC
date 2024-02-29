@@ -8,7 +8,7 @@
   <br>
   <div>
     <h3>Meu Kit de Desenvolvimento e Aprendizado:👾💻</h3>
-    <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,php,css,html,angular,bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,php,css,html,angular,bootstrap"/>
     <br>
     <img src="https://skillicons.dev/icons?i=flutter,dart,mysql,eclipse,vscode,gcp,figma,github"/>
   <div>
